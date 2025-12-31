@@ -85,3 +85,8 @@
 
 - 질문이나 아이디어가 있다면 [Issues](https://github.com/codeit-bootcamp-spring/awesome-food-spots/issues)를 활용해주세요!
 추가된 맛집 정보
+### [남산 서울카츠]
+- **위치:** 서울 중구 퇴계로
+- **메뉴 추천:** 안심카츠
+- **평점:** 5/5
+- **코멘트:** 가성비 좋은 카츠
